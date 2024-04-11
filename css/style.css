@@ -1,0 +1,64 @@
+.div1 {
+    text-align: center;
+}
+
+.b1 {
+    background-color: wheat;
+    background: url(/assets/img/bandera1.jpg);
+    background-size: 1300px;
+    background-size: height 200px;
+    
+}
+
+.b2 {
+    text-align: center;
+}
+
+.b3 {
+    text-align: center;
+    background: url(/assets/img/bandera2.jpg);
+     
+    
+}
+
+.b4 {
+    text-align: center;
+}
+
+.b5 {
+    text-align: center;
+    background-color: bisque;
+}
+.b6 {
+    text-align: center;
+    background-color: bisque;
+}
+.b7 {
+    text-align: center;
+    background-color: bisque ;
+}
+.b8 {
+    text-align: center;
+    background-color:rgb(198, 226, 167) ;
+}
+.b-I {
+    text-align: center;
+    background: url(/assets/img/bandera.jpg);
+}
+
+.foo1{
+    text-align: right;
+}
+.foo2{
+    text-align: right;
+}
+.foo3{
+    text-align: right;
+}
+.foo4{
+    text-align: right;
+}
+.foo5{
+    text-align: right;
+}
+
